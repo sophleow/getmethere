@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/getmethere/static/css/main.8dad4968.css",
-    "main.js": "/getmethere/static/js/main.c3353a78.js",
+    "main.js": "/getmethere/static/js/main.32b14143.js",
     "static/js/787.d3452120.chunk.js": "/getmethere/static/js/787.d3452120.chunk.js",
     "static/media/weather.jpg": "/getmethere/static/media/weather.9b19ffb999c63286f1e5.jpg",
     "static/media/transport.jpg": "/getmethere/static/media/transport.78b80ff2c0d63399a0de.jpg",
@@ -17,11 +17,11 @@
     "static/media/moving-windy.gif": "/getmethere/static/media/moving-windy.abbb35a34a26b6e0e5db.gif",
     "index.html": "/getmethere/index.html",
     "main.8dad4968.css.map": "/getmethere/static/css/main.8dad4968.css.map",
-    "main.c3353a78.js.map": "/getmethere/static/js/main.c3353a78.js.map",
+    "main.32b14143.js.map": "/getmethere/static/js/main.32b14143.js.map",
     "787.d3452120.chunk.js.map": "/getmethere/static/js/787.d3452120.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8dad4968.css",
-    "static/js/main.c3353a78.js"
+    "static/js/main.32b14143.js"
   ]
 }
