@@ -54,7 +54,7 @@ body {
 .gridContainer {
 	display: grid;
 	border: hidden;
-	width: 50vw;
+	width: 60vw;
 	margin: 2% auto;
 	position: static;
 	grid-template-areas:
