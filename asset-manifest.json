@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/getmethere/static/css/main.a10ef267.css",
+    "main.css": "/getmethere/static/css/main.b57beb91.css",
     "main.js": "/getmethere/static/js/main.71b1320a.js",
     "static/js/787.d3452120.chunk.js": "/getmethere/static/js/787.d3452120.chunk.js",
     "static/media/weather.jpg": "/getmethere/static/media/weather.9b19ffb999c63286f1e5.jpg",
@@ -16,12 +16,12 @@
     "static/media/moving-heavyrain.gif": "/getmethere/static/media/moving-heavyrain.f295a92269685695719c.gif",
     "static/media/moving-windy.gif": "/getmethere/static/media/moving-windy.abbb35a34a26b6e0e5db.gif",
     "index.html": "/getmethere/index.html",
-    "main.a10ef267.css.map": "/getmethere/static/css/main.a10ef267.css.map",
+    "main.b57beb91.css.map": "/getmethere/static/css/main.b57beb91.css.map",
     "main.71b1320a.js.map": "/getmethere/static/js/main.71b1320a.js.map",
     "787.d3452120.chunk.js.map": "/getmethere/static/js/787.d3452120.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a10ef267.css",
+    "static/css/main.b57beb91.css",
     "static/js/main.71b1320a.js"
   ]
 }
