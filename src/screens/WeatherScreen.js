@@ -40,7 +40,7 @@ export default function Weather(props) {
 							("Moderate Rain" || "Heavy Rain" || "Heavy Showers") && (
 							<img className="image-weather" src={HeavyRain} />
 						)}
-						{startLocationForecast == ("Fair" || "Fair & Warm") && (
+						{startLocationForecast == ("Fair (Day)" || "Fair & Warm") && (
 							<img className="image-weather" src={Sunny} />
 						)}
 						{startLocationForecast ==
@@ -72,7 +72,7 @@ export default function Weather(props) {
 							("Moderate Rain" || "Heavy Rain" || "Heavy Showers") && (
 							<img className="image-weather" src={HeavyRain} />
 						)}
-						{endLocationForecast == ("Fair" || "Fair & Warm") && (
+						{endLocationForecast == ("Fair (Day)" || "Fair & Warm") && (
 							<img className="image-weather" src={Sunny} />
 						)}
 						{endLocationForecast ==
