@@ -85,8 +85,8 @@ export default function Location(props) {
 		<>
 			<div className="locationtext">
 				<p>where</p>
-				<p>would you like</p>
-				<p>to go?</p>
+				<p>would you</p>
+				<p>like to go?</p>
 			</div>
 			<div className="weather-bottom">
 				<div>
